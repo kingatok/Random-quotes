@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	padding-top: 6vh;
+	color: #1a001a;
+}
+
+.box {
+	padding-top: 20vh;
+	background-color: #330033;
+	max-width: 1000px;
+	height: 40vh;
+	margin: 0 auto;
+	color: #ffffe6;
+}
+
+h2 {
+	font-size: 2em;
+	display: inline-block;
+	max-width: 800px;
+}
+
+h3 {
+	font-style: italic;
+}
+
+button {
+	margin-top: 15px;
+	padding: 15px;
+	font-size: 1em;
+	cursor: pointer;
+	color: #1a001a;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+	margin: 15px;
+	color: #330033;
+}
